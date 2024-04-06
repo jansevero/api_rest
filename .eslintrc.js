@@ -25,5 +25,6 @@ module.exports = {
     'no-console': 'off',
     'linebreak-style': 'off',
     'class-methods-use-this': 'off',
+    'import/first': 'off',
   },
 };

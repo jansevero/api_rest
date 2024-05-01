@@ -30,5 +30,6 @@ module.exports = {
     'no-empty-function': 'off',
     'camelcase': 'off',
     'quote-props': 'off',
+    'spaced-comment': 'off',
   },
 };
